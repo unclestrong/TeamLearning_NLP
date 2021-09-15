@@ -1,3 +1,9 @@
+**致谢**：
+
+本文所有内容出自datawhale的[learn-nlp-with-transformers](https://github.com/datawhalechina/learn-nlp-with-transformers)中的[2.1-图解attention.md](https://github.com/datawhalechina/learn-nlp-with-transformers/blob/main/docs/篇章2-Transformer相关原理/2.1-图解attention.md)与[2.2-图解transformer.md](https://github.com/datawhalechina/learn-nlp-with-transformers/blob/main/docs/篇章2-Transformer相关原理/2.2-图解transformer.md) 
+
+本人依照其为教材 进行了详读 按照自己的理解对文章进行了部分重新排版，并将文本中的重要的关键词与学术用语进行了**加粗**与==高亮==处理
+
 # Attention
 
 - 问题：Attention出现的原因是什么？
